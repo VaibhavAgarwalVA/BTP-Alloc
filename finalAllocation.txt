@@ -1,52 +1,52 @@
-DR: 1  is allocated project: PM1
-DR: 2  is allocated project: DM2
-DR: 3  is allocated project: AM2
-DR: 4  is allocated project: PG3
-DR: 5  is allocated project: AD1
-DR: 6  is allocated project: PG1
-DR: 7  is allocated project: AD2
-DR: 8  is allocated project: AD2
-DR: 9  is allocated project: PPD2
-DR: 10  is allocated project: PG4
-DR: 11  is allocated project: AM3
-DR: 12  is allocated project: NG1
-DR: 13  is allocated project: NG4
-DR: 14  is allocated project: AD1
-DR: 15  is allocated project: SS1
-DR: 16  is allocated project: PG2
-DR: 17  is allocated project: RgM1
-DR: 18  is allocated project: AG1
-DR: 19  is allocated project: JM1
-DR: 20  is allocated project: NG2
-DR: 21  is allocated project: PPD3
-DR: 22  is allocated project: SB2
-DR: 23  is allocated project: RgM3
-DR: 24  is allocated project: NG5
-DR: 25  is allocated project: DM1
-DR: 26  is allocated project: NG6
-DR: 27  is allocated project: SB1
-DR: 28  is allocated project: SSL3
-DR: 29  is allocated project: AG3
-DR: 30  is allocated project: SS4
-DR: 31  is allocated project: PB2
-DR: 32  is allocated project: AM5
-DR: 33  is allocated project: DRC1
-DR: 34  is allocated project: SS2
-DR: 35  is allocated project: RgM3
-DR: 36  is allocated project: DRC4
-DR: 37  is allocated project: DRC2
-DR : 38 has NOT filled any project.
-DR: 39  is allocated project: SB4
-DR: 40  is allocated project: BM2
-DR : 41 has NOT filled any project.
-DR : 42 has NOT filled any project.
-DR : 43 has NOT filled any project.
-DR : 44 has NOT filled any project.
-DR : 45 has NOT filled any project.
-DR: 46  is allocated project: BM3
-DR : 47 has NOT filled any project.
-DR : 48 has NOT filled any project.
-DR : 49 has NOT filled any project.
-DR : 50 has NOT filled any project.
-DR: 51  is allocated project: PPD4
-DR : 52 has NOT filled any project.
+DR: 01  -- Allocated -- 	: PM1
+DR: 02  -- Allocated -- 	: DM2
+DR: 03  -- Allocated -- 	: AM2
+DR: 04  -- Allocated -- 	: PG3
+DR: 05  -- Allocated -- 	: AD1
+DR: 06  -- Allocated -- 	: PG1
+DR: 07  -- Allocated -- 	: AD2
+DR: 08  -- Allocated -- 	: AD2
+DR: 09  -- Allocated -- 	: PPD2
+DR: 10  -- Allocated -- 	: PG4
+DR: 11  -- Allocated -- 	: AM3
+DR: 12  -- Allocated -- 	: NG1
+DR: 13  -- Allocated -- 	: NG4
+DR: 14  -- Allocated -- 	: AD1
+DR: 15  -- Allocated -- 	: SS1
+DR: 16  -- Allocated -- 	: PG2
+DR: 17  -- Allocated -- 	: RgM1
+DR: 18  -- Allocated -- 	: AG1
+DR: 19  -- Allocated -- 	: JM1
+DR: 20  -- Allocated -- 	: NG2
+DR: 21  -- Allocated -- 	: PPD3
+DR: 22  -- Allocated -- 	: SB2
+DR: 23  -- Allocated -- 	: RgM3
+DR: 24  -- Allocated -- 	: NG5
+DR: 25  -- Allocated -- 	: DM1
+DR: 26  -- Allocated -- 	: NG6
+DR: 27  -- Allocated -- 	: SB1
+DR: 28  -- Allocated -- 	: SSL3
+DR: 29  -- Allocated -- 	: AG3
+DR: 30  -- Allocated -- 	: SS4
+DR: 31  -- Allocated -- 	: PB2
+DR: 32  -- Allocated -- 	: AM5
+DR: 33  -- Allocated -- 	: DRC1
+DR: 34  -- Allocated -- 	: SS2
+DR: 35  -- Allocated -- 	: RgM3
+DR: 36  -- Allocated -- 	: DRC4
+DR: 37  -- Allocated -- 	: DRC2
+DR: 38  ** NOT filled.
+DR: 39  -- Allocated -- 	: SB4
+DR: 40  -- Allocated -- 	: BM2
+DR: 41  ** NOT filled.
+DR: 42  ** NOT filled.
+DR: 43  == NOT allocated.
+DR: 44  ** NOT filled.
+DR: 45  ** NOT filled.
+DR: 46  -- Allocated -- 	: BM3
+DR: 47  ** NOT filled.
+DR: 48  ** NOT filled.
+DR: 49  ** NOT filled.
+DR: 50  ** NOT filled.
+DR: 51  -- Allocated -- 	: PPD4
+DR: 52  ** NOT filled.

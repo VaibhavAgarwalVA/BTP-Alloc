@@ -280,7 +280,10 @@ int main(){
 		list = it->second;
 		if(list.empty()){
 			j++;
-			fout<<"DR : "<<j<<" has NOT filled any project."<<endl;
+			if(j<10)
+				fout<<"DR: 0"<<j<<"  ** NOT filled."<<endl;
+			else
+				fout<<"DR: "<<j<<"  ** NOT filled."<<endl;
 			it++;
 			continue;
 		}
@@ -299,9 +302,18 @@ int main(){
 		}
 
 		j++;
-		if(flag)
-			fout<<"DR: "<<j<<"  is NOT allocated any project."<<endl;
-		fout<<"DR: "<<j<<"  is allocated project: "<<projects[list.at(ii)]<<endl;
+		if(j<10){
+			if(flag)
+				fout<<"DR: 0"<<j<<"  == NOT allocated."<<endl;
+			else
+				fout<<"DR: 0"<<j<<"  -- Allocated -- \t: "<<projects[list.at(ii)]<<endl;
+		}
+		else{
+			if(flag)
+				fout<<"DR: "<<j<<"  == NOT allocated."<<endl;
+			else
+				fout<<"DR: "<<j<<"  -- Allocated -- \t: "<<projects[list.at(ii)]<<endl;
+		}	
 		it++;
 	}
 	fin.close();
@@ -310,7 +322,10 @@ int main(){
 	ofstream fo("projectsLeft.txt");
 	fo<<"Seats left in various projects : \n";
 	for(int i=0;i<99;i++){
-		fo<<projects[i]<<" : "<<capacity[i]<<endl;
+		if(projects[i].length()==4)
+			fo<<projects[i]<<" : "<<capacity[i]<<endl;
+		else
+			fo<<projects[i]<<"  : "<<capacity[i]<<endl;
 	}
 	fo.close();
 	return 0;
