@@ -13,10 +13,10 @@ AM3  : 0
 AM4  : 1
 AM5  : 0
 BM1  : 1
-BM2  : 0
+BM2  : 1
 BM3  : 0
 BM4  : 1
-BM5  : 1
+BM5  : 0
 BM6  : 1
 BM7  : 1
 BM8  : 1

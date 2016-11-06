@@ -37,13 +37,13 @@ DR: 36  -- Allocated -- 	: DRC4
 DR: 37  -- Allocated -- 	: DRC2
 DR: 38  ** NOT filled.
 DR: 39  -- Allocated -- 	: SB4
-DR: 40  -- Allocated -- 	: BM2
+DR: 40  -- Allocated -- 	: BM3
 DR: 41  ** NOT filled.
 DR: 42  ** NOT filled.
-DR: 43  == NOT allocated.
+DR: 43  ** NOT filled.
 DR: 44  ** NOT filled.
 DR: 45  ** NOT filled.
-DR: 46  -- Allocated -- 	: BM3
+DR: 46  -- Allocated -- 	: BM5
 DR: 47  ** NOT filled.
 DR: 48  ** NOT filled.
 DR: 49  ** NOT filled.
