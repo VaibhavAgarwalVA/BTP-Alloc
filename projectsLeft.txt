@@ -93,7 +93,7 @@ SPP4 : 1
 SS1 : 1
 SS2 : 1
 SS3 : 1
-SS4 : 1
+SS4 : 0
 SSL1 : 1
 SSL2 : 1
 SSL3 : 0

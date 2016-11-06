@@ -27,7 +27,7 @@ DR: 26  is allocated project: NG6
 DR: 27  is allocated project: SB1
 DR: 28  is allocated project: SSL3
 DR: 29  is allocated project: AG3
-DR : 30 has NOT filled any project.
+DR: 30  is allocated project: SS4
 DR: 31  is allocated project: PB2
 DR: 32  is allocated project: AM5
 DR: 33  is allocated project: DRC1
